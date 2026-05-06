@@ -5,18 +5,16 @@
 ### 🚀 Full-Stack Developer
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ngthminh-dev">
+  <a href="https://www.linkedin.com/in/truogvanzz">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ngthminh.dev@gmail.com">
+  <a href="mailto:truogvandev.it.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.facebook.com/ngthminhdev">
+  <a href="https://www.facebook.com/truogvandev">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=ngthminhdev&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 
 </div>
 
